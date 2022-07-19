@@ -49,4 +49,7 @@ span#counting-box {
     body{
         background-position:right;
     }
+    .counting_number{
+        width:100%;
+    }
 }
