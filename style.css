@@ -44,3 +44,9 @@ span#counting-box {
   outline: none;
   box-shadow:0 !important;
 }
+
+@media(min-width:320px) and (max-width:576px){
+    body{
+        background-position:right;
+    }
+}
